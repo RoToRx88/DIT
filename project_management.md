@@ -21,6 +21,7 @@ _Example when building a house:_
 * foundations
 
 __Questions :__
+
 1. What is the completion time for the project ? _(duration of the project)_  sometimes it's not possible to assign definite time to each activities but we must be able in this case to assign 3 possible times: [ Optimistic time; most likely time, and pessimistic time ]. In this case on most produce the expected project duration.
 2. What resources are needed to complete the project in his completion time & is it possible to complete the project with fewer resources by delaying the start time on some activities. __This is called resources scheduling.__
 3. What is the total cost of completing the project & is it possible to finish the project earlier and at what extra cost. __This is cost scheduling.__
