@@ -59,7 +59,7 @@ _In this section we want to determine the resources needed to complete the proje
 	* Each activity represented by a block
 		* Horizontal: activity time
 		* Vertical: people required
-	* Conventional to represent the critical path on the __block graph__ first
+	* __Always represent the critical path on the block graph first__
 * GANTT chart
 
 ------
@@ -67,3 +67,8 @@ _In this section we want to determine the resources needed to complete the proje
 
 ![solve](http://i.imgur.com/pF35ltV.jpg)
 ![subject](http://i.imgur.com/r7uQIKw.jpg)
+
+-------
+
+
+> A __dummy activity__ is not an activity. ie: It require no time or resources but is absolutely necessary to satisfy the logical precedence rules. 
