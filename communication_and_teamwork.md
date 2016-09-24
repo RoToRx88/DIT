@@ -42,15 +42,3 @@ Il n'y à pas d'erreur, justes des facons de faire. C'est ce qui importe.
 * Managers are continually working on the problems of how to develop flexible organization
 * Manager are seeking ways to establish a research climate in which increasing complex decision can be made by people with the infromation regardless of their location in the organization
 *  Managers are looking for ways in which new and complex technologies can be managed and in which people who have an ever higher sense of freedom and autonomous can be encouraged to want to stay and work in their organization
-
-
------
-
-__Exercise :__
-
-1. Employee want to be payed for the extra hours he did
-2. The direction & the employee
-3. lake of communication, the employee never asked for the money of his extra hours
-4. Just asks friendly to the direction about the extra hours he did to be payed.
-
-----
