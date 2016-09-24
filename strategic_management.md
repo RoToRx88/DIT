@@ -11,8 +11,8 @@
 
 -------
 
- * Adaptive environement
- * looking internaly at what we are good at
+ * Adaptive environment
+ * looking internally at what we are good at
  * Create a strategy is an interactive process where everyone is involved in
  * Strategy come from the top management team but need to involve other persons
  * _example_: IKEA as a strategic advantage: affordable stuff
@@ -26,8 +26,8 @@
 	 *  Different levels of manager must give a competitive advantage over other company, through strategic leadership taking in consideration the _social responsibility_ of there acts.
 	 *  Strategic making:
 		 * Select the mission
-		 * Look outside & identifiy strategic oportunity
-		 * analyze internal competitive environmement & strengths & weakness
+		 * Look outside & identify strategic opportunity
+		 * analyze internal competitive environment & strengths & weakness
 		 * select the strategy
 
 > Strategic is not static, always feedback loop is the most important
@@ -41,7 +41,7 @@ Concentrate resources on the most critical things
 
 * Describe what is meant by the SWOT analysis
 * Explain the differences between internal & external factors
-* analyse ways in which IKEA has managed the minimise threats to its business
+* analyse ways in which IKEA has managed the minimize threats to its business
 * discuss the contribution of SWOT analysis to IKEA's growth
 
 
