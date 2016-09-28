@@ -65,8 +65,8 @@ _In this section we want to determine the resources needed to complete the proje
 ------
 > Example of a project management with a __network__, a __FLOAT__ table and a __block graph__ to determine the time needed to achieve the project with some resources. 
 
-![solve](http://i.imgur.com/pF35ltV.jpg)
 ![subject](http://i.imgur.com/r7uQIKw.jpg)
+![solve](http://i.imgur.com/pF35ltV.jpg)
 
 -------
 
