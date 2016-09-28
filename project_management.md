@@ -72,3 +72,17 @@ _In this section we want to determine the resources needed to complete the proje
 
 
 > A __dummy activity__ is not an activity. ie: It require no time or resources but is absolutely necessary to satisfy the logical precedence rules. 
+
+
+
+-----
+
+
+Here is as example of _dummy activity_:
+
+![Subject ](http://imgur.com/w4NI9HD)
+![Answer](http://imgur.com/JpP16JQ)
+
+
+----------
+
