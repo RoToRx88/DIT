@@ -80,8 +80,8 @@ _In this section we want to determine the resources needed to complete the proje
 
 Here is as example of _dummy activity_:
 
-![Subject ](http://imgur.com/w4NI9HD)
-![Answer](http://imgur.com/JpP16JQ)
+![Subject ](http://i.imgur.com/w4NI9HD.jpg)
+![Answer](http://i.imgur.com/JpP16JQ.jpg)
 
 
 ----------
