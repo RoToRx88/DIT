@@ -86,3 +86,30 @@ Here is as example of _dummy activity_:
 
 ----------
 
+
+
+# PERT (Program Evaluation and Review Technic)
+
+In reality, it is often not possible to assign definite or certain time for each activity to be completed. But it is also not unrealistic to put 3 possible values for each activities time. 
+Theses are traditionally called: 
+
+* Optimistic (__O__)
+* Pessimistic (__P__)
+* Most Likely (__ML__)
+
+From this starting point one then creates an expected time for each activities together with the standard deviation of that __expected__ time.
+This expected time and standard deviation are produced by the __PERT ESTIMATES__
+
+`EXPECTED TIME = (O + 4 ML + P) / 6` 
+
+`STANDARD DEVIATION = (P - O) / 6`
+
+
+One having completed the network and determining the critical path one can now produce unexpected completion time for the project. Being unexpected time implies some uncertainty. Therefore, it is important to determine the probability that certain specifies paths may finish in some specified time.
+For example what is the probability that the path CDFI finishes a day earlier in 29. This may be a useful piece of information.
+
+
+# Normal distribution
+
+Bell shaped symmetric curve
+All normal distribution are all "the same" in the sense that the area under the curve some specified number of std deviation away from the center is always the same.
