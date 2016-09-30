@@ -40,5 +40,58 @@ Il n'y à pas d'erreur, justes des facons de faire. C'est ce qui importe.
 > A manager is a gatekeeper or change agent who filters messages as they come over channel, controls which messages are passed along the channels and determines the most effective method of presenting them? According to Berkhard(1969), the manager plays the following roles:
 
 * Managers are continually working on the problems of how to develop flexible organization
-* Manager are seeking ways to establish a research climate in which increasing complex decision can be made by people with the infromation regardless of their location in the organization
+* Manager are seeking ways to establish a research climate in which increasing complex decision can be made by people with the information regardless of their location in the organization
 *  Managers are looking for ways in which new and complex technologies can be managed and in which people who have an ever higher sense of freedom and autonomous can be encouraged to want to stay and work in their organization
+
+
+# Corporate culture and communication
+
+* A set of values, beliefs, understandings and norms shared by members of an organisation
+* Humans practicies and staff itself have a real importance
+	* Split humans resources / technique etc is not a good practice, it remove the presence of each for the other
+* Culture is partly conscious, partly unconscious
+* It's historically based (culture)
+* It is often heterogeneous
+* Externals influences on organisation culture
+	* Family
+	* Community
+	* Nation
+	* Education System
+* __Culture__ is stable and change slowly
+* __Climate__ is the day-to-day feel of the organisation
+* The Schein Pyramid
+	* Artefacts
+		* Office layout
+		* Dress
+		* Symbils
+		* Slogans
+	* Values
+		* Consideration for people
+		* Competence
+		* Innovation
+		* Performances
+		* Goals
+		* Codes of conducts
+		* normes
+	* Basic Assumptions
+		* Taken for granted thoughts and beliefs
+	* _(Reference): Typologies Charles HANDY (1993)_
+	*  Expertise if source of individual power in a company
+	* _(Reference): Types - Despande and farley (1999)_
+	* Formal communication of the __mission__ and the __core values__ is important inside a company
+	* Ceremonies is an important part of the culture
+	* Six componentes of a great corporate culture
+		* Vision or mission statement
+		* Values are the core of the culture
+		* Practices
+		*  People needs to share the core values of the culture
+		*  Narrative (Public story implicit of explicit) like Steve Job's story in his garage
+		*  Place (example of Pixar open atrium)
+	*  
+
+> __Personal assesment__
+>  Prepare an introduction of 3 min for a job in IT manager / IT architect with a __powerpoint__
+> Synopsis of our background & skills
+> Balance the text with appropriate visuals
+> Define overall career objective
+> 10% of the overall mark
