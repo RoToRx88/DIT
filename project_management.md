@@ -113,3 +113,39 @@ For example what is the probability that the path CDFI finishes a day earlier in
 
 Bell shaped symmetric curve
 All normal distribution are all "the same" in the sense that the area under the curve some specified number of std deviation away from the center is always the same.
+
+All number on the table of normal curve give the _"bigger half"_ and therefore sometimes you must substract from 1 to get the required aera.
+
+> _Important fact about normal distribution_: 
+> T he sum of normal distribution is again normal distribution with center equal to the sum of the centers and standard deviation equal to the square-root of the sum of the squares of standard deviations.
+
+
+
+# Project Life Cycle
+
+Project have typical the following 4 phases, each with it's own agenda of tasks & issues: 
+* Initiation
+* Planning
+* Implementation
+* Closure / End
+
+## Initiation Phase
+
+In this phase, the project objective is identified. This can be a business problem or opportunity. Most impotently issues of feasibility _(can we do the project)_, and justification _(should we do the project)_ are addressed. 
+
+## Planning Phase
+
+In this phase, the team identifies all the work that needs to be done. In particular the project tasks and resources requirement are identified along with the strategy for producing it. Finally a project plan is produced. Outlining the activities dependencies & time frames. A __network diagram__ is particularly useful in this phase. Once the project team has identified the work prepared the scheduled, estimated the cost, the 3 fundamentals components of the planning process are complete. It is also important in this phase to document providing insurances & control measures, quality target, along with an acceptance plan listing the criteria to gain customer acceptance.
+
+## Implementation
+
+In this phase project plan is put into motion and perform the work of the project.
+It is very important in this phase to maintain control and communicate as needed. Progress is continuously monitored & as a result appropriate adjustments and made and recorded as variances from the original plan.
+What's appen here is people are carrying tasks & progress information is beeing reported to regular teams meeting.
+Finally, states reports should always emphasis the anticipated end point in terms of cost, scheduled & quality of deliverable. Each project deliverable produced should be reviewed for quality & measured against the acceptance criteria.
+
+## Closure / End
+
+In this final phase the emphasis is on releasing the final  deliverable to the customer in particular handing over project documentation to the customer terminating supplier contracts releasing resources & communicating the closure to all possible stakeholders.
+The last remaining step is to conduct lessons learn studies _ie: to examine what went well and what did not_.
+The resume of experiences is transferred back to the organisation which will have other project.
