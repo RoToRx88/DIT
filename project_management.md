@@ -124,6 +124,7 @@ All number on the table of normal curve give the _"bigger half"_ and therefore s
 # Project Life Cycle
 
 Project have typical the following 4 phases, each with it's own agenda of tasks & issues: 
+
 * Initiation
 * Planning
 * Implementation
@@ -149,3 +150,23 @@ Finally, states reports should always emphasis the anticipated end point in term
 In this final phase the emphasis is on releasing the final  deliverable to the customer in particular handing over project documentation to the customer terminating supplier contracts releasing resources & communicating the closure to all possible stakeholders.
 The last remaining step is to conduct lessons learn studies _ie: to examine what went well and what did not_.
 The resume of experiences is transferred back to the organisation which will have other project.
+
+The technical term for the FLOAT calculate above is __TOTAL FLOAT__. There are 2 others types of float:
+
+* FREE FLOAT
+	* = EFT - EST - ACTIVITY TIME
+		* EFT = EST start for subsequent activity
+		* _ie: how much time the start of an activity can be delayed without affecting the EST of subsequent activities_
+	*  
+* INDEPENDENT FLOAT
+	* = EST _(for subsequent)_ - LST _(for start act time)_
+
+
+# Cost scheduling
+
+In this section we are concerned with determining the cost of a project if it is completed in it _normal_ time (or _current_ time)
+
+This cost is determined by adding up the cost for each activities when completed in it _normal_ or _current_ time. Some activities can be completed in a shorter time, but at an extra cost, usually per day. This is called the daily reduction cost (aka _cost slop_). Our final assumption is that there is a minimum time for each activities _ie: it can be reduced no further_. This time is called the __Crash Time__ and the cost associated with completing an activity in it's crash time is called the __Crash Cost__. The objective in this section is to determine the overall cost for completing a project in it's minimum time and comparing it with the cost of completing the project in it's normal time. _ie: is it beneficial to finish the project earlier than it's normal time_.
+
+
+> __TODO__: Exercise n°8 + determine the FLOAT
