@@ -170,3 +170,16 @@ This cost is determined by adding up the cost for each activities when completed
 
 
 > __TODO__: Exercise n°8 + determine the FLOAT
+
+> _crash (days)_: minimum amount of time takes an activity. 
+
+The minimum possible project time is determined using the __crash time__ of each activity as follows:
+
+1. crash every activity _ie: put the crash time for each activity in place of the current time on the network & determine all path time through the network & choose the maximum of this values_
+
+The __crash time__ do give us the minimum project time but not the minimum cost associated with that time. It is not correct to add up the __crash cost__ for each activity to get this minimum cost because many activities have been crashed on necessarily. For example an activity with less crash time than the largest crash time is not necessary have to be done in his crash time, as it will induce extra cost. So don't crash every path, as it will add extra cost.
+
+We now attempt to determine the minimum cost for the project.
+
+1. Reduce the project time by 1 day. This is achieved by reducing one of the critical activities by 1 day because all other paths are less time than the critical path. We do this on the cheapest manner. _ie: the activity with the lowest daily reduction cost_ We continue to reduce until one of two obstacles appears. 1: the activity we are reducing crashes since no further reduction with that activity; 2: a new critical path appears. In this case the project time can only be reduced by reducing all critical paths. It is important at this stage to determine the float of each activities because project reduction will erase the float of some activities _ie: they will now become critical_
+2.  
