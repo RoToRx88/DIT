@@ -89,9 +89,46 @@ Il n'y à pas d'erreur, justes des facons de faire. C'est ce qui importe.
 		*  Place (example of Pixar open atrium)
 	*  
 
-> __Personal assesment__
+> __Personal assessment__
 >  Prepare an introduction of 3 min for a job in IT manager / IT architect with a __powerpoint__
 > Synopsis of our background & skills
 > Balance the text with appropriate visuals
 > Define overall career objective
 > 10% of the overall mark
+
+> * Communication / interpersonal skills
+>	* ex: leadership; team player
+>	* Then give example of each skills
+
+
+# Groups & Teams
+
+## A Group
+
+* Frequent interaction
+* Sense of group identity
+* Interdependence among members
+* Shared norms, values & goals
+* Loyalty to the group
+* Leadership
+* Individual gain in a group
+	* Friendship & social support
+	* more aware of own identity
+		* _We validate ourself &who we are by interaction with other people_
+	* Further personal or career development
+	* Recognition
+	* Protection
+	* Special privileges
+* cf: _The Hawthorne studies on groups_
+* Peoples are more productive and prefer to work being involved in a group
+* Camaraderie increase productivity as peoples works on a particular task
+* In a group human __have to__:
+	* Supress personnal values & views
+	* Require sacrificing aspects of individuality
+	* Exposure to uncomfortable social arenas
+	* Force co-operation
+*  Groups have unwritten rules & norms
+	* That can be really difficult to change
+
+[For the essai: style guide](https://www.dit.ie/media/library/documents/DIT%20College%20of%20Business%20Style%20Guide.pdf)
+
