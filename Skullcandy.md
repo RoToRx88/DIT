@@ -2,6 +2,16 @@
 * Company background 
 * Industry background
 
+---------
+
+* Building blocks
+	* Innovation
+	* customers resp
+	* quality
+	* efficiency
+
+---------
+
 # SWOT
 
 ## External
@@ -16,18 +26,11 @@
 
 ## Internal
 
-* Building blocks
-	* Innovation
-	* customers resp
-	* quality
-	* efficiency
-
 * Competitive advantage
 * Distinctive competencies
 	* Resources
 		* Tangible
 		* Intangibles
-	* 
 
 
 ### Strength
