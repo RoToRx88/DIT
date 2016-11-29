@@ -12,6 +12,10 @@
 
 ---------
 
+
+----------
+
+
 # SWOT
 
 ## External
@@ -42,3 +46,8 @@
 * Analytical tools
 * academics references
 * Newer info about company
+
+
+
+
+![http://i.imgur.com/TxihGf2.jpg](http://i.imgur.com/TxihGf2.jpg)
