@@ -182,4 +182,25 @@ The __crash time__ do give us the minimum project time but not the minimum cost 
 We now attempt to determine the minimum cost for the project.
 
 1. Reduce the project time by 1 day. This is achieved by reducing one of the critical activities by 1 day because all other paths are less time than the critical path. We do this on the cheapest manner. _ie: the activity with the lowest daily reduction cost_ We continue to reduce until one of two obstacles appears. 1: the activity we are reducing crashes since no further reduction with that activity; 2: a new critical path appears. In this case the project time can only be reduced by reducing all critical paths. It is important at this stage to determine the float of each activities because project reduction will erase the float of some activities _ie: they will now become critical_
-2.  
+
+
+
+> _Puzzle:_ The combined ages of Mary and Anne is 44.  And Mary is twice old as Anne was when Mary was half as old as Anne will be when Anne is three time as old as Mary was when Mary was three time as old as Anne.
+
+
+
+# Work Breakdown Structure (WBS)
+
+> This is a topdown tree structure that is very useful when trying to organize projects.The idea behind __WBS__ is to subdivide the project into layers often called a hierarchy. The lowest level of this hierarchy should be _"small activities, jobs, tasks"_.
+
+A typical example of a __WBS__ is the following: house construction
+
+![house construction WBS](http://www.workbreakdownstructure.com/img-content/work-breakdown-structure-example.png)
+
+
+# Time lag dependency
+
+Upon to now we have been making an idealistic assumption namely that any activity in the precedents rules had to be completed / finished before the subsequent activity could start. This is called a _finish to start dependencies_ with _zero time lag_. But in reality one could have a _finish to start_ dependency with a _non zero time lag_, for example: the wall can only be painted one week after the walls have been placed. This is a _finish to start_ dependency with one week time lag. There may be other types of dependency than _finish to start_ .
+
+
+_ie: Finish to finish with time lag 5_: B finishes 5 days after A finishes.
