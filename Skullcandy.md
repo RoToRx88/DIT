@@ -81,12 +81,8 @@ _Useful opportunities can come from such things as:_
 	* Need to find a way to achieve that __(creating more value)__
 	* Design adapted to each culture
 		* Country colors Flag
-
-
-
-
-
-
+		* Logo of DJ / brands
+		* 
 
 --------------
 # Notes
