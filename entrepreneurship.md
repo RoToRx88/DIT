@@ -18,10 +18,19 @@ https://pearsoned.co.uk
 * __gambler__
 
 
-3 qualities of entrepreuner
-* Passion
-* Determination
-* Risk taker
-* what you want / what you need
-	* don't need to promote what people needs, but need to promote what people wants
-*  
+* Qualities of entrepreuner
+	* Passion
+	* Determination
+	* Risk taker
+	* what you want / what you need
+		* don't need to promote what people needs, but need to promote what people wants
+	*  independence
+	* See opportunities & use them when possible
+	* Calculated risk taker, not gamblers
+* More information you have, less risk being taken, do your research / network
+* [lean canvas](http://www.lean-startup-coaching.com/blog/2013/06/11/comment-utiliser-un-lean-canvas/)
+*  Baumol's Typology of entrepreunership
+	* Pproductive
+	* Unproductive
+	* Destructive
+* 43d
