@@ -4,6 +4,8 @@
 > _Code_: so-STMG4002
 > _access_: oDT354-4StrategicManagement
 
+* Strategic Management
+	* MGMT3033
 
 ####Required reading
 * Hill C WI & Jones OR (2013) __Theory of strategic Management with cases__ (10th edition / international edition)
@@ -231,3 +233,89 @@ With good __quality__ comes a good __customer responsiveness__
 
 Centralized / decentralized = choice by few peoples or inverse (operating units are autonomous or not)
 
+--------
+
+* External analysis
+	* 5 forces
+	* PERTS
+* Internal analysis
+	* Value chain
+	* resources & capabilities
+	* Looking at functions of the organisations as adding values
+	* Extract strength and weakness
+* Stakeholders corporate governance
+	* Management
+	* Agency theory
+	* _Enron case_
+	*  business ethic
+*  Functional level strategy
+	* Looking at functions of the organisation as value creation for the company
+		*  Superior efficiency for example
+		* Quality
+		* Innovation
+		* Customer responsiveness
+
+---------------
+
+# Business Level Strategy
+
+* Still useful in declining industry if managers can figure out the right strategy
+* good strategy is aiming niche market where demand is strong is good for declining industry to raise again
+
+## Fragmented Industry
+
+> It is a large number of small & medium sized companies _ie: restaurants industry_
+
+* It is a low barrier entrance industry
+* It is fragmented because of lack of economies of scale
+* Easy for entrepreneurs to come into
+* **Value Innovation**
+	* allow greater value through superior differentiation at a lower cost
+	* _aka: critical thinking, take a step back, and see the overall thing and **play the game differently**_
+		* _ie: AirBnB changed the way hotel & everything were working for 100+ years and innovate on it_
+*  Consolidate a fragmented industry can be done through **franchising & chaining**
+* **Chaining** can help to become rapidly a national brand
+
+## Survive through different stage of life cycle
+
+### Transition between embryonic to growth
+
+* Customer demand is limited
+	* Unfamiliar with the product
+	* Don't know what to expect
+	* Don't need it
+	* Lack of complementary
+		* Like iPhone at the start has on case or bumpers etc...
+* Become growth industry as the mass market develops for the firm's product
+	* Help to reduce cost of production
+* customers of a product: Innovators -> early adopters -> early majority -> late majority
+* six competitors forces
+* product proliferation
+* Go on every segments of the market to be harder for competitors to come
+	* Like Google Pixel and Google Pixel cheap version
+	* WallMart lower the prices by 50% when a now competitor go near one of their market
+*  Strategic commitments
+* Have an aggressive advertising to remember everyone you are on the top of the other
+*  Price leadership
+	* Free Mobile changed everything
+* non-price competition
+	* expends to more segments of its existing market
+	* create new or improve products with strong R&D
+		* Announce a product that is not yet ready for sale is widely used
+	* Finding new market segments
+	* Product proliferation
+		* Pixel / Pixel Cheap
+
+![figure 6.7 four non-price competitive strategies](http://images.slideplayer.com/15/4653238/slides/slide_19.jpg)
+
+## Declining industries
+![figure 6.8 factors that determine the intensity of competition in dedining industries](http://images.slideplayer.com/16/4942974/slides/slide_22.jpg)
+
+
+![Figure 6.9 strategy selection in a declining industry](http://images.slideplayer.com/16/4942974/slides/slide_23.jpg)
+
+* Explenation of figure 6.9
+	* Become a leader of the declining industry taking leadership
+	* Niche strategy: focus on pockets of demand that decline more slowly than the whole industry
+	* harvest strategy reduce cost structure, reduce to minimum the assets and get what you can, then leave
+	* Just sells the business and leave
