@@ -78,7 +78,7 @@ _Study case Home Grocer_
 	* Opportunities
 		* Identify and use it
 	* Threat
-		* Identify to avoid 
+		* Identify to avoid
 
 ## Important points (5)
 
@@ -128,7 +128,7 @@ Macro environment analysis (PEEST) :
 A Company advantage is based on three factors:
 * The value customers place on the company's products
 * The price that a company charges for its products
-* The cost of creating those 
+* The cost of creating those
 
 
 
@@ -144,7 +144,7 @@ A Company advantage is based on three factors:
 		* Privately hold company _(can hold they secrets)_
 	* Weakness
 		* Privately hold company _(can't grow as they wants)_
-		* Logistics 
+		* Logistics
 * ? What is Trader competitive advantage, if any ?
 	* Customer loyalty _(put a big value in they products)_
 	* Distinctive product strategy _(narrow range but great products)_
@@ -186,12 +186,12 @@ A Company advantage is based on three factors:
 
  ![the roots of competitive advantage](https://classconnection.s3.amazonaws.com/77/flashcards/1286077/png/screen_shot_2012-03-23_at_20036_pm1332536466578.png)
 
-> _Economy of scale :_ reducing cost by increasing the quantity of sold product 
+> _Economy of scale :_ reducing cost by increasing the quantity of sold product
 
 * Achieving superior efficiency
 	* Economy of scale
 	* Felexible manufacturing technologies instead of standard mass production
-		* ie: DELL: laptop etc that are customization 
+		* ie: DELL: laptop etc that are customization
 	* Just in time systems for logisitcs
 	* R&D that produce products easy to manufacture
 	* Upgrade employee skills
@@ -204,7 +204,7 @@ A Company advantage is based on three factors:
 	* Strong reputation for quality
 		* Help to differenciate
 	*  Quality control with mertrics
-	* Input from employees for how quality can be increased 
+	* Input from employees for how quality can be increased
 	* Products well designed in R&D
 	* R&D works with comm&marketing to improve the attributes
 *  Achieving Superior Innovation
@@ -258,6 +258,7 @@ Centralized / decentralized = choice by few peoples or inverse (operating units 
 ---------------
 
 # Business Level Strategy
+[http://smallbusiness.chron.com/five-types-business-level-strategies-781.html](Business level strategy)
 
 * Still useful in declining industry if managers can figure out the right strategy
 * good strategy is aiming niche market where demand is strong is good for declining industry to raise again
@@ -319,3 +320,95 @@ Centralized / decentralized = choice by few peoples or inverse (operating units 
 	* Niche strategy: focus on pockets of demand that decline more slowly than the whole industry
 	* harvest strategy reduce cost structure, reduce to minimum the assets and get what you can, then leave
 	* Just sells the business and leave
+
+--------
+
+insert here notes from François
+
+--------
+
+Figure 2.1 Competitive Forces (based on how competitive Forces shape strategy) 6 forces porter's model (find image online)
+
+Figure 8.3 Four basic strategies
+
+
+> Encrer qui nous sommes quand grosse croissance
+> next step etre sur qu'on racontre notre histoire
+
+# Functional and business level strategies
+
+* functionnal level strategy helps to build competitive advantage that are:
+	* efficiency
+	* quality
+	* innovation
+	* customer responsiveness
+
+ ## Functional level strategy
+
+> action that managers tale to imporove the effectiveness of one or more of value creation activities
+
+* they are resources that create values
+* efficiency = output / input
+	*  the more efficient, the fewer the inputs required to produce a given output, therefore lower the cost structure
+* how to increase efficiency
+	* exploiting economies of scal & _learning effects : the more you do, the better you become with experience)_
+	* adopting flexible manufacturing technologies
+		* instead of mass production do custom mass production
+			* _ie DELL: produce pc all custom but in mass_
+	* implement just in time system
+	* reduce customer defection rate
+	* introduce self-managing teams
+		* side effect: employee are more motivated by managing themself, feels more in the job
+* Achieve superior quality
+	* quality could be
+		* reliability
+		* excellence
+			* Differentiate by attribute like form, features, performance, durability, styling
+			* improve the marketing to play on that: prompt delivrery, easy installation, etc...
+			* the company need to be seen as superior to that of rivals
+	* superior quality provide
+		* helps to differentiate its products from those offered by rivals -> induce creation of value in the eyes of customers
+		* eleminating defects or errors from theproduction process -> remove waste
+	* [Six sigma](https://www.wikiwand.com/en/Six_Sigma) metrics to mesure production quality
+* Achieve superior innovation
+	* innovation can be in __products__ or in __process__
+	* differentitate product and therefore chare premium price
+		* exampmle: Apple
+	* lower the cost structure
+	* marketing and technology needs to works together
+		* example of fail: segway: even with both, something went wrong: price !
+* Achieve superior customer responsiveness
+	* give them what they want when they want at the price they want
+	* if we have brand loyalty
+		* we can increase demande
+		* do premium prices
+	* give the customers value for money
+
+## Business level strategy
+
+* it's about _whom_ the company decides to serve (which customer segments), what customer need & desires the company is trying to satisfy & how the company decide it to do
+* low cost / differentiation
+* low cost
+	* raw materials company can't really play on that
+	* can help to undercut the rival's prices
+	* _ie: wall mart_
+* diffentiation
+	* distinguishing company from its rivals by offerint something that is hard to find and match
+	* differentied by
+		* superior quality
+		* better design
+		* easy of use
+		* customer services
+	* this give 2 advantages
+		* charge premium price
+		* increase demand
+	* can help a comapny grow overall demand and capture market
+	* figure 5.1 options for exploiting diffrentitation
+	* it sometime raise the cost structure of the firm
+	* there is a balance between differentiation and low cost
+		* uber disrupted that by creating real innovation
+* Think how to segment market
+	* not tailer different offering to different segments so sell strandarized stuff
+	* regognise difference and create products for each segment
+	* target a limited nnumber of market segment
+	* 

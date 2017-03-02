@@ -68,3 +68,14 @@ We secure cars and houses, it is the same for online stuff etc...
 * TODO: check European innovation academy EIA program
 
 [siliconrepublic.com/machines/iot-data-tapesty-ireland](siliconrepublic.com/machines/iot-data-tapesty-ireland)
+
+# Internet
+
+* For each "old" job lost, 2.6 tech job are created
+* when a new way to do things comes, this to be take in consideration
+	* people / process / structure / technology
+	* _ie electornic vote system in Ireland used for 1 time, and sold because hurt the fealing of people_
+
+# Chapter 6
+
+* 

@@ -66,7 +66,7 @@ __TODO The 6 approaches will be in the exams, explain each approach, and pick on
 ## Entrepreneirial orientation of business
 
 * focus on the orientation of business
-	* Like fisk taking, aggressiveness
+	* Like fisk taking,* aggressiveness
 
 ## Economic approach
 
@@ -98,3 +98,58 @@ __TODO The 6 approaches will be in the exams, explain each approach, and pick on
 This is an economic approach (to link to what we studied today)
 
 -------
+
+# International entrepreunership
+
+> Can be defined as the developement of international ventures
+
+__Always statisfy the needs and demands of the customers__
+
+* By going international, you create more sales, then can reduce productions costs
+* Help to be close to the market
+	* Don't need to ship stuff from far -> reduce transport fees
+* globalisation of the customers
+	* Induce a globalisation of the competitors
+* be aware of :
+	* Culture sensitivity
+		* remember Buttler example in middle-east country where it is a place to stay (like pubs in Ireland)
+	* Laws / Government policy
+	* Currencys
+	* Politial environment and stability
+	* Market share
+		* Is the market saturated or not ?
+	* Risks
+	* Technology environmentt
+
+## Strategies for corporate entrepreneurship
+
+* Horizontal integration
+* vertical integration
+
+* does going to international fit with the entrepreneurs overall strategic growth plan
+* which market to enter
+	* do international market research
+* how to enter choosen market
+	* from lowest risky to highest risky
+* __proactive__ motivator
+	* profit
+	* unique products
+	* technological advantages
+	* exclusive information
+	* managerial urge
+	* tax benefit
+* __reactive__ motivator
+	* competitive pressures
+	* overproduction
+	* declining domestic sales
+	* saturated domestic markets
+	* proximity to customers ans ports
+
+## Licensing
+
+* licensor permiets the licensee to use its intellectual propert in exchange of fees
+* transfer cost
+
+## Foreign Direct Inverstment
+
+* firms invest to enter market
