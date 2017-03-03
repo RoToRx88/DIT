@@ -1,6 +1,4 @@
-[TOC]
-
-#Opportunity lost **OL**
+# Opportunity lost **OL**
 > __Definition:__ This is the lost opportunity associated with making a decision.
 
 When using an **opportunity lost** OL table, BAYES' rule now recommends making the decision with the lowest **expected** opportunity lost. _ie: in problem 2) stock 6._
@@ -93,7 +91,7 @@ MaxiMax: A1
 MaxiMin: A2
 MiniMax: A1
 
-## problem 2
+## Problem 2 v2.
 
 it is not correct to put the probabilities 0.2 0.6 0.2 (exo 2b) because one's given a favorable result from the research this will force us to revise the probabilities for E1, E2 and E3. The revised probability for E3 will go up, while E1 will go down if the research is favorable. Similarly if the result of the research is unfavorable, then the probability of E1 will go up, and E3 will go down. These revised probabilities are now determined using the following probability tree.
 

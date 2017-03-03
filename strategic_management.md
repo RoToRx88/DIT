@@ -411,4 +411,74 @@ Figure 8.3 Four basic strategies
 	* not tailer different offering to different segments so sell strandarized stuff
 	* regognise difference and create products for each segment
 	* target a limited nnumber of market segment
-	* 
+* To create value while we differentiate, instead of increasing price, create demand
+	* If people find a product at fair price with good quality, they'll want to buy it feeling doing a good deal
+
+## Corporate level strategy
+
+* Vertical integration = own the suply chain
+
+### Horizontal Integration
+
+#### Advantages
+
+* hrizontal = aquire & merge with industry competitors (like coca cola buying wine production etc)
+* aquire competitor with != products so we can offer more stuff of != range
+	* _ie: the laptop industry: buy the laptop, the case, the mouse, office365 at the same time & same place_
+* Leveragind the resources
+	* we are good to sell one product, what if we try to sell the product of another company as we are good to do that
+* Reduce industry rivalry
+	* Buy acquiring or merging with competitor
+* Increase bargaining power against buyers & suppliers
+	* buy more raw material, can negociate the price
+
+#### Problems
+
+* Problems with merging very != company cultures
+* High turnover when the aquisition is forced
+* overestimate the potential benefits ?
+* Very regulated in the EU
+
+
+### Vertical Integration: Entering New Industries to strengthen the __core__ business model
+
+* Backward or upstream integraetion
+	* producing it's own products
+		* _ie IBM producing its own products to create computers_
+* Forward or downward integration
+	* Sell by yourself the products
+		* _ie: Apple_
+* 4 stages of creating value in the chain
+	* Figure 9.1 Stages in the Raw-Material-to-Customer Value-Added Chain
+*
+
+#### Advantages
+
+* Facilitates investments in specialized assets
+	* can be a special knowledge of certain employee or so
+	* _ie Ford designed a new electrical engine, but it's not they core job, but will help them save a lot of money, therefore create a competitive advantage_
+		* the problem is Ford doesn't know if they can trust the production suppliers
+* Protect product quality
+* Results in improved scheduling
+
+#### Problems
+
+* Increase cost structure
+	* if you still buy stuff from your own suppliers whent new suppliers arrive in the marcket at a lower price
+		* _ie Ford with iron ore mining_
+	* burocratic costs
+* Disadvantage when technology change fast
+	* lock the company in an old technology
+* when demande is unpredictable
+	* Hard to manage the volume and the flow
+
+#### Alternatives to Vertical integration: Cooperative Relationship
+
+* Enter in long term relationship instead of buying / owning another company can allow to avoid the burocratic problem
+	* _ie Apple with Foxconn, Apple invested in the production equipment for Foxconn_
+* How to build that kind of long term relationship
+	* Each part invest in eachother
+	* Hostage taking
+		* let other know some of the patented stuff so if you broke the relation they can sell it to another
+	* Credible commitments
+		* If one part fail, it break the image of the both

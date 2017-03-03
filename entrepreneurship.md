@@ -153,3 +153,27 @@ __Always statisfy the needs and demands of the customers__
 ## Foreign Direct Inverstment
 
 * firms invest to enter market
+
+---------
+
+# Talk week 1
+
+## 2
+
+* two types of entrepreneur
+	* formal / informal
+	* Market oriented / technology oriented _(garage)_
+* don't be the first in the market, be the best
+	* Apple
+
+## 3
+
+* Growth in small firms
+	* Financial data is less reliable
+	* Create jobs
+* no single theory to explain growth
+* predicts external changes and work with them
+	* If you sell winter clothes and a big winter is coming, icrease prices
+* be careful when you're coming from a small to medium company, be carefull when creating a proper serious marketing strategy
+	* if done poorly, can be a big threat
+* Growth is not a strategy, it is an __outcome__
