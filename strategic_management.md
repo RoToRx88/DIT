@@ -8,8 +8,9 @@
 	* MGMT3033
 
 ####Required reading
-* Hill C WI & Jones OR (2013) __Theory of strategic Management with cases__ (10th edition / international edition)
 
+* Hill C WI & Jones OR (2013) __Theory of strategic Management with cases__ (10th edition / international edition)
+  - http://s1.downloadmienphi.net/file/downloadfile2/147/1400999.pdf
 
 -------
 
